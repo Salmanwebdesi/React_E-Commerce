@@ -12,13 +12,6 @@ https://radiant-lokum-ed631a.netlify.app/
 - Easy to integrate with Backend
 - Fully Responsive
 
-
-## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/1cRyv4ncAumzUofFhC6P_hQ0LKmZxfBVD/view)
-
-
-
 ## Run Locally
 
 Clone the project
