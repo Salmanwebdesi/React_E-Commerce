@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+radiant-lokum-ed631a.netlify.app
 
 ## Features
 
@@ -15,7 +15,7 @@ https://reactjs-ecommerce-app.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+![App Screenshot](https://drive.google.com/file/d/1cRyv4ncAumzUofFhC6P_hQ0LKmZxfBVD/view)
 
 
 
