@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-radiant-lokum-ed631a.netlify.app
+(radiant-lokum-ed631a.netlify.app)
 
 ## Features
 
