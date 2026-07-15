@@ -3,9 +3,9 @@
 A Ecommerce Website made with React.js Framework.
 
 
-## Demo
+🌐 **Live Demo:** 
 
-(radiant-lokum-ed631a.netlify.app)
+https://reactjs-ecommerce-app.vercel.app
 
 ## Features
 
