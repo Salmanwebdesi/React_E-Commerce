@@ -62,6 +62,6 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://github.com/Salmanwebdesi)
+If you have any feedback, please reach out to me [here](https://wa.link/cwa30k)
 
 
